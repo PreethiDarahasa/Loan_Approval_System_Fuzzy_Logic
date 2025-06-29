@@ -16,7 +16,7 @@ The system outputs an approval score (0-100) and provides one of three decisions
 - **UNDER REVIEW** (Score 30-59)
 - **DENIED** (Score < 30)
 
-## 🚀 Features
+## Features
 
 - **Fuzzy Logic Engine**: Uses scikit-fuzzy for robust fuzzy inference
 - **Multiple Input Parameters**: Considers 5 financial indicators
