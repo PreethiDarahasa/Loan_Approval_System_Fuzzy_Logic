@@ -38,7 +38,7 @@ The system outputs an approval score (0-100) and provides one of three decisions
 1. **Clone or download the project files**
    ```bash
    git clone https://github.com/PreethiDarahasa/Loan_Approval_System_Fuzzy_Logic.git
-   cd Loan_Approval_System
+   cd Loan_Approval_System_Fuzzy_Logic
    ```
 
 2. **Install dependencies**
